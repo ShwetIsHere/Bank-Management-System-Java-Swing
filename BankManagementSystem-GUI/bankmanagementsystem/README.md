@@ -12,7 +12,7 @@
     Visual Stdio Code IDE
     JAVA Language
     MySql Database
-    mysql-connector-tz-1.3.3-4.jar
+    jcalancer-tz-1.3.3-4.jar
     mysql-connector-j-9.2.0.jar
 
 ## How to Run this Project:
